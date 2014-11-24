@@ -1,0 +1,3 @@
+# exclude Data and Unmirrored directories
+/Data/
+/Unmirrored/
